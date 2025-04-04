@@ -14,10 +14,10 @@ namespace Assets.Script
 {
     public class Dashboard : MonoBehaviour
     {
-        //public const string url = "http://localhost/api/dashboard.php";
-        public const string url = "http://103.91.190.179/api/dashboard.php";
-        //public const string diamondupdateurl = "http://localhost/api/updatediamond.php";
-        public const string diamondupdateurl = "http://103.91.190.179/api/updatediamond.php";
+        public const string url = "http://localhost/api/dashboard.php";
+        // public const string url = "http://103.91.190.179/api/dashboard.php";
+        public const string diamondupdateurl = "http://localhost/api/updatediamond.php";
+        // public const string diamondupdateurl = "http://103.91.190.179/api/updatediamond.php";
         public Slider healthBarImage;
         public TMP_Text diamondOutput;
         public TMP_Text heartOutput;

@@ -14,8 +14,8 @@ using static SignUp;
 
 public class SignUp : MonoBehaviour
 {
-    //public const string url = "http://localhost/api/register.php";
-    public const string url = "http://103.91.190.179/api/register.php";
+    public const string url = "http://localhost/api/register.php";
+    // public const string url = "http://103.91.190.179/api/register.php";
     public TMP_InputField usernameInput;
     public TMP_InputField passwordInput;
     public TMP_InputField confirmpasswordInput;
